@@ -1,0 +1,73 @@
+body {
+    margin: auto 0;
+    background-color: #0e171a;
+    color: #e2f4fd;
+    font-family:'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+/* Generic */
+
+.capped {
+    text-transform: capitalize;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #e2f4fd;
+}
+
+.go-right {
+    margin-left: auto;
+}
+
+/* Nav */
+
+.navbar {
+    top: 0;
+    width: 100%;
+}
+
+.main-nav {
+    display: flex;
+    margin: 0;
+}
+
+.main-nav > li {
+    padding: 20px;
+}
+
+/* Landing Page */
+
+.hero {
+
+}
+
+.intro {
+
+}
+
+.name {
+
+}
+
+.description {
+
+}
+
+#sub-headline {
+
+}
+
+.skills-list {
+    list-style: square;
+}
+
+/* Colors */
+
+.cyan {
+    color: #85e7be;
+}
